@@ -1,4 +1,4 @@
 ### 个人网页引导页
-1. [zhuchenglin.cn](zhuchenglin.cn)
-2. [www.zhuchenglin.cn](www.zhuchenglin.cn)
-3. [page.zhuchenglin.cn](page.zhuchenglin.cn)
+1. [http://zhuchenglin.cn](http:zhuchenglin.cn)
+2. [http://www.zhuchenglin.cn](http://www.zhuchenglin.cn)
+3. [http://page.zhuchenglin.cn](http://page.zhuchenglin.cn)
